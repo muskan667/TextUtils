@@ -1,2 +1,2 @@
 # TextUtils
-An amazing Tool for analyzing the text ,created using django backend framework.
+An amazing Tool for analyzing the text ,created using django backend framework.(in master branch).
